@@ -4,4 +4,4 @@
 
 	print_r($mycompanyhq);
 
-	echo "This is my hq";
+	echo "This is my hq!";
