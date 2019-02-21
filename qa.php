@@ -1,3 +1,3 @@
 <?php
 
-	$ourQaTeam = ['Teni', 'Shola', 'Yakub'];
+	$ourQaTeam = ['Teni', 'Shola', 'Yakub', 'Ngozi'];
