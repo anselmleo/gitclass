@@ -6,7 +6,7 @@ Echo "10 Most Important Rules For Git Source Control Management
 
 		2. Always have one repository per project if possible
 
-		3. Add a thoroughgly meaningful message per commit - will save lifes
+		3. Add a thoroughgly meaningful message per commit - will save lives
 
 		4. Commit regularly and messages should be in present tense - like you about to do it 
 
