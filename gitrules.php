@@ -18,7 +18,7 @@ Echo "10 Most Important Rules For Git Source Control Management
 
 		8. Use rebase to replay HEAD and sync timeline appropriately
 
-		9. Use merge to place HEAD back in place
+		9. Use rebase and merge to place HEAD back in place 
 
 		10. Always make sure tree is clean before carrying out any branching operation
 
